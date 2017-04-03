@@ -1,0 +1,5 @@
+Bugguri:
+1.La prima tura cand trebuie sa stea jucatorul este obligat sa mai ia o carte
+2.Daca a fost data o umflatura si cineva a luat-o iar urmatorul da alta umflatura cel de-al 4-lea v-a luat si umflaturile pe care le-a luat primul
+3.Uneori bad_alloc
+4.

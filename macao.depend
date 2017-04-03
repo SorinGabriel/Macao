@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1432490489 source:c:\users\sorin\desktop\septica\main.cpp
+	<iostream>
+	"card.h"
+
+1432490489 c:\users\sorin\desktop\septica\card.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1432550797 source:c:\users\sorin\desktop\macao\main.cpp
+	<iostream>
+	"card.h"
+
+1432550925 c:\users\sorin\desktop\macao\card.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1432577018 source:c:\users\sorin\desktop\coding\macao\main.cpp
+	<iostream>
+	"card.h"
+
+1432577810 c:\users\sorin\desktop\coding\macao\card.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1432580618 source:f:\proiecte pentru cv\[java]macao\main.cpp
+	<iostream>
+	"card.h"
+
+1432581410 f:\proiecte pentru cv\[java]macao\card.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
